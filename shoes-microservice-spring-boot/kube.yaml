@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
       - name: "shoe"
-        image:  comdevops/spring:v4
+        image:  devopsbyarun/spring:v4
         ports:
         - containerPort:  1002
           name: "shoe"
