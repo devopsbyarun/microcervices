@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
       - name: "offer"
-        image:  comdevops/spring:v2
+        image:  devopsbyarun/spring:v2
         ports:
         - containerPort:  1001
           name: "offer"
