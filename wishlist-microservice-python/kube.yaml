@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
       - name: "offer"
-        image:  comdevops/python:v2
+        image:  devopsbyarun/python:v2
         ports:
         - containerPort:  5000
           name: "wishlist"
